@@ -6,6 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Scenes/MainMenu.unity
+    guid: 94f311d1216146442a7000d7f6cdfaad
+  - enabled: 1
+    path: Assets/Scenes/WordSearch.unity
+    guid: f61792e07cde3b24190a97c7a0cf74d1
+  - enabled: 1
+    path: Assets/Scenes/HiddenText.unity
+    guid: 68bc2d82392e88949b21612768358b02
+  - enabled: 1
+    path: Assets/Scenes/TestYourKnowledge.unity
+    guid: 368c8470e0d209e43a9318f1800542c7
+  - enabled: 1
+    path: Assets/Scenes/Directional Lock.unity
+    guid: c1cce2981f866af44826a8574ddd4c39
+  - enabled: 1
+    path: Assets/Scenes/PasswordStrength.unity
+    guid: ddbd3f364b87e3349b905077ad56db9d
   m_configObjects: {}
