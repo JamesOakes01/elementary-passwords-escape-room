@@ -9,7 +9,7 @@ public class SceneMovement : MonoBehaviour
     // Start is called before the first frame update
     private void Awake()
     {
-        DontDestroyOnLoad(this.gameObject);
+        //DontDestroyOnLoad(GameObject.FindGameObjectWithTag("NavBar"));
         //DontDestroyOnLoad(FindObjectOfType<EventSystem>());
     }
     void Start()
